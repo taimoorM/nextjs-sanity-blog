@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { DocumentMagnifyingGlassIcon } from "@heroicons/react/24/solid";
 
 function Header() {
   return (
@@ -11,7 +12,15 @@ function Header() {
           </div>
         </Link>
       </div>
-      <div></div>
+      <div>
+        <Link
+          href="#"
+          className="flex items-center px-5 py-3 text-sm md:text-base text-white  bg-[#4285f4] rounded-full text-center"
+        >
+          Search Blog
+          <DocumentMagnifyingGlassIcon className="h-6 w-6 ml-2" />
+        </Link>
+      </div>
     </header>
   );
 }
