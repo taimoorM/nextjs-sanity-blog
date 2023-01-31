@@ -1,5 +1,3 @@
-import { Reference } from "sanity";
-
 type Base = {
   _createdAt: string;
   _id: string;
@@ -52,7 +50,7 @@ interface Span {
   _key: string;
   _type: "span";
   marks: string[];
-  text: string[];
+  text: string;
 }
 
 interface Category extends Base {
