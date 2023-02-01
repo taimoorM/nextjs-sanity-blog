@@ -1,3 +1,4 @@
+import { ArrowDownRightIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 import urlFor from "../lib/urlFor";
 import category from "../schemas/category";
@@ -10,7 +11,7 @@ function BlogList({ posts }: Props) {
   return (
     <div>
       <hr className="border-[#4285f4] mb-10" />
-      <div>
+      <div className="grid grid-cols-1 md:grid-cols-2 px-10 gap-x-10 gap-y-16 pb-24">
         {posts.map((post) => (
           <div key={post._id} className="flex flex-col group cursor-pointer">
             <div className="relative w-full h-80 drop-shadow-xl group-hover:scale-105 transition-transform duration-200 ease-out">
@@ -42,6 +43,13 @@ function BlogList({ posts }: Props) {
                   ))}
                 </div>
               </div>
+            </div>
+            <div className="mt-2">
+              <p>by {post.author.name}</p>
+              <p className="mt-2 font-bold flex items-center group-hover:underline">
+                Read Post
+                <ArrowDownRightIcon className="ml-2 h-4 w-4" />
+              </p>
             </div>
           </div>
         ))}

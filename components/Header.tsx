@@ -4,7 +4,7 @@ import { DocumentMagnifyingGlassIcon } from "@heroicons/react/24/solid";
 
 function Header() {
   return (
-    <header className="flex items-center justify-between space-x-2 font-bold px-10 py-5 bg-[#f4b400]">
+    <header className="flex items-center justify-between space-x-2 font-bold px-10 py-5">
       <div>
         <Link href="/">
           <div className="object-contain ml-2">
