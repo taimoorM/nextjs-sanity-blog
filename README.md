@@ -95,7 +95,7 @@ A simple blog made with nextjs, tailwind and sanity.io, showcasing the powerful 
 [product-screenshot]: images/screenshot.png
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
-[sanity.io]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=sanity&logoColor=white
+[sanity.io]: https://img.shields.io/badge/sanity-000000?style=for-the-badge&logo=sanitydotio&logoColor=f03e2f
 [sanity-url]: https://www.sanity.io/
-[tailwind]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=tailwind&logoColor=white
+[tailwind]: https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
 [tailwind-url]: https://tailwindcss.com/
