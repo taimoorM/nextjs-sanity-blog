@@ -30,7 +30,7 @@
     <a href="https://github.com/taimoorM/nextjs-sanity-blog"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/taimoorM/nextjs-sanity-blog">View Demo</a>
+    <a href="https://blogio-rho.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/taimoorM/nextjs-sanity-blog/issues">Report Bug</a>
     ·
@@ -64,8 +64,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 A simple blog made with nextjs, tailwind and sanity.io, showcasing the powerful sanity.io v3 cms capabilities.
 
