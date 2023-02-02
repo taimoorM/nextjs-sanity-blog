@@ -18,9 +18,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/taimoorM/nextjs-sanity-blog">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Blogio </h3>
 
@@ -37,29 +34,6 @@
     <a href="https://github.com/taimoorM/nextjs-sanity-blog/issues">Request Feature</a>
   </p>
 </div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-  
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -95,7 +69,7 @@ A simple blog made with nextjs, tailwind and sanity.io, showcasing the powerful 
 [product-screenshot]: images/screenshot.png
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
-[sanity.io]: https://img.shields.io/badge/sanity-000000?style=for-the-badge&logo=sanitydotio&logoColor=f03e2f
+[sanity.io]: https://img.shields.io/badge/sanity-000000?style=for-the-badge&logo=sanityio&logoColor=f03e2f
 [sanity-url]: https://www.sanity.io/
 [tailwind]: https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
 [tailwind-url]: https://tailwindcss.com/
